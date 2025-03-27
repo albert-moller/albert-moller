@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/kyechan99/main/kyechan99.gif" width="700"/>
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=I+am+Albert+Frisch+Møller!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=I'm+Albert+Frisch+Møller!" />
 </h1>
 
 ### 🎓 MSc. Eng in Mathematical Modelling and Computation @ DTU  
-### 🎓 BSc. in Artificial Intelligence and Data @ DTU  
+### 🧠 BSc. in Artificial Intelligence and Data @ DTU  
 
 ---
 
