@@ -8,8 +8,8 @@
 
 ## Education
 
-- MSc. Eng in Mathematical Modelling and Computation @ DTU</h3>  
-- BSc. in Artificial Intelligence and Data @ DTU</h3>
+- MSc Eng in Mathematical Modelling and Computation @ DTU</h3>  
+- BSc Eng in Artificial Intelligence and Data @ DTU</h3>
 
 ---
 
